@@ -7,3 +7,4 @@ DevOps - Group 5 - Assignment 1
 3. Created 101281971_devops.txt file
 4. Added new content to 101281971_devops.txt
 5. Created 101281971_sdlc.txt
+6. Added new content to 101281971_sdlc.txt
