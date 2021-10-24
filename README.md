@@ -10,3 +10,4 @@ DevOps - Group 5 - Assignment 1
 6. Added new content to 101281971_sdlc.txt
 7. Updated content in file 101281971_gb.txt
 8. Updated content in file 101281971_devops.txt
+9. Fixed grammar errors in file 101281971_gb.txt
