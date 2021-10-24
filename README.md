@@ -11,3 +11,4 @@ DevOps - Group 5 - Assignment 1
 7. Updated content in file 101281971_gb.txt
 8. Updated content in file 101281971_devops.txt
 9. Fixed grammar errors in file 101281971_gb.txt
+10. Fixed gramar error in file 101281971_devops.txt
