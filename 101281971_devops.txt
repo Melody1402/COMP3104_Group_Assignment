@@ -1,0 +1,1 @@
+DevOps stand for Development (Dev) and Operations (Ops). DevOps a working culture that combines software development engineers (dev) with operators (system engineers, security officers, network engineers, infrastructure engineers, etc) to shorten the product development life cycle (SDLC).
