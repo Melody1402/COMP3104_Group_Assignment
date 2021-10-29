@@ -1,4 +1,1 @@
-Devops is important to the software development lifecycle  process as it allows for development to
- be much faster and have easier maintenance of code. It is good for programmers as it allows them to easily roll back
-the code when there are unforseen errors.
 
