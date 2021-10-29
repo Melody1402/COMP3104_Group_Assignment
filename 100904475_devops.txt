@@ -1,1 +1,12 @@
+so far in comp3104 we have learned by week:
+
+1. BASH &
+The CLI
+2.Git, GitHub &
+more BASH
+3.Version Control
+for DevOps
+4.Developer
+Operations
+Landscape
 
