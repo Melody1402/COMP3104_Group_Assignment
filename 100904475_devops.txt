@@ -9,4 +9,17 @@ for DevOps
 4.Developer
 Operations
 Landscape
+5.Hosting High
+Geared Single
+Page
+Applications &
+Work tracking
+tools
+6.Continuous
+Integration /
+Continuous
+Deployment
+7.CI/CD Pipeline
+Sequences
+
 
