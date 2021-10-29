@@ -1,3 +1,10 @@
 Devops is important to the software development lifecycle  process as it allows for development to
- be much faster and have easier maintenance of code. It is good for programmers as it allows them to easily roll back
+ be much faster and have easier maintenance of code. 
+
+It is good for programmers as it allows them to easily roll back
 the code when there are unforseen errors.
+
+It also allows for easy correction of these errors as you can see the last stable version 
+and which new changes could potentially be the issue.
+
+Branching your code allows for you to try new things without causing issues with the current version.
