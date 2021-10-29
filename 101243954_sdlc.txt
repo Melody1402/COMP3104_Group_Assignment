@@ -2,7 +2,7 @@ The Software Development Life Cycle consists of two main phases: development and
 However, in order to optimize the software development cycle, to help IT products be released faster and more often, the concept of DevOps was born.
 A successful DevOps needs to possess the following skills and qualities:
 - Hard programming skills are a must. In addition, to Ops, DevOps Engineer also needs to have a deep understanding of the operating system in use (Linux, Docker.v.v.)
-- Good research skills .
+- Good research skills.
 In particular, DevOps people must have good research ability to quickly find solutions and handle situations.
 - Careful, meticulous is the most important. DevOps Engineer will often take on tasks like migrating data for the company, so they need to be meticulous. At that time, just a small mistake, such as the wrong IP server, will affect the whole system.
 -Always put the collective interest first
