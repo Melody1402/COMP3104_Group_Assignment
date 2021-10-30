@@ -1,0 +1,2 @@
+A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates.
+Within an agile environment, developers, system administrators, and programmers can be siloed therefore DevOps engineers reduce that complexity, closing the gap between actions needed to quickly change an application, and the tasks that maintain its reliability. 
